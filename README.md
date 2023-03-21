@@ -25,3 +25,7 @@ With our Todo List app, you can easily create, edit, and organize your tasks. Yo
 
 ## Contributing
 Contributions to the application are welcome. Please fork the repository and submit a pull request with your changes. Any improvements, bug fixes, or additional features are appreciated.
+
+
+@AscentAcademy 
+https://github.com/AscentAcademy
