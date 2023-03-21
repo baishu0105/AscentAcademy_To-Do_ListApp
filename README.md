@@ -6,6 +6,7 @@ With our Todo List app, you can easily create, edit, and organize your tasks. Yo
 ## How to use
 - Write your task.
 - See the pending tasks.
+- You can edit or delete the task too.
 - Click the box if it is complete.
 - Clear the tasks if you have completed everything.
 
